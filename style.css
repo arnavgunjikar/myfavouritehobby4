@@ -1,0 +1,63 @@
+img {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    transition: transform.2s;
+     border:5px solid #AAAAAA; 
+    
+        
+    
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+    color: blue;
+    
+}
+h2 {
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    
+}
+h3 {
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    
+}
+
+p {
+    color: black;
+    font-size: 30px;
+}
+
+body {
+    background: linear-gradient(green 0%, yellow 100%)
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+#myname{
+font-family: 'courgette' cursive;
+}
+
+html{
+    scroll-behavior: smooth
+}
+
+button{
+    class:center
+}
+
+img.hover{
+    tranform: scale(0.9)
+      
+}
